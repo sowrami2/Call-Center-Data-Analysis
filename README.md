@@ -3,7 +3,7 @@ This repository contains exploratory data analysis (EDA) of a call centre datase
 Dataset: https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Call+Center.csv
 The data was cleaned and formatted to accurate data types.
 
-# Insights gathered:
+Insights gathered:
   1. KPI1 - Total number of calls = 32,941.
   2. KPI2 - Average call duration = 25.02 mins.
   3. Preferred communication channel: Directly calling the call center (32%).
