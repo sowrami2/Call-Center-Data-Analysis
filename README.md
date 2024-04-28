@@ -1,9 +1,13 @@
 # Call Centre Data Analysis
+
 This repository contains exploratory data analysis (EDA) of a call centre dataset from 'Real World Fake Data'. The analysis aims to derive insights and trends from the dataset using pivot tables and various visualization techniques.
 
 Dataset: https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Call+Center.csv
 
+Tools Used: Microsoft Excel
+
 The data was cleaned and formatted to accurate data types.
+Developed an interactive excel dashboard utilizing slicers and different charts for a visual representation of the analysis insights.
 
 Insights gathered:
   1. KPI1 - Total number of calls = 32,941.
