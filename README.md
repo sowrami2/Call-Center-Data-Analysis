@@ -9,7 +9,7 @@ Tools Used: Microsoft Excel
 The data was cleaned and formatted to accurate data types.
 Developed an interactive excel dashboard utilizing slicers and different charts for a visual representation of the analysis insights.
 
-Insights gathered:
+***Insights gathered:***
   1. KPI1 - Total number of calls = 32,941.
   2. KPI2 - Average call duration = 25.02 mins.
   3. Preferred communication channel: Directly calling the call center (32%).
